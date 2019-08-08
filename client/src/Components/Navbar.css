@@ -1,0 +1,23 @@
+.navbar {
+
+    margin-bottom: 50px;
+    border-radius: 0;
+    
+
+  }
+  .jumbotron {
+    margin-bottom: 0;
+    background-color: white;
+    height: 350px;
+    top: 0px;
+    margin-top: 0px;
+
+  }
+ 
+ .Img{
+    position: relative;
+    width: 200px;
+    left: 700px;
+    margin-bottom: 0px;
+
+ }
